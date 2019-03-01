@@ -566,7 +566,8 @@
               }
             },
             ".card-title": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#009447"
             },
             ".card-title B": {
               "color": "#009447"
